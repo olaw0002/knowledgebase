@@ -4,11 +4,11 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Action IT Knowledge Base',
+  title: 'Knowledge Base',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
-  description: 'Al our knowledge, transparently.',
+  description: 'All Our knowledge, transparently.',
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
@@ -16,10 +16,12 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
   head: [
-    ['meta', { name: 'theme-color', content: '#3eaf7c' }],
+    ['meta', { name: 'theme-color', content: '#00458f' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
+
+  dest:'docs',
 
   /**
    * Theme configuration, here is the default theme configuration for VuePress.
@@ -27,11 +29,12 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: '',
+    repo: 'https://github.com/actionitdev/knowledgebase',
+    logo: '/logo.svg',
     editLinks: true,
-    docsDir: '',
+    docsDir: 'docs',
     editLinkText: '',
-    lastUpdated: false,
+    lastUpdated: true,
     nav: [
       {
         text: 'On-Boarding',
