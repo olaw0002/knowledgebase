@@ -7,10 +7,10 @@
     "name": "",
     "email": ""
   },
-  "repository": "/knowledgebase",
+  "repository": "https://github.com/actionitdev/knowledgebase",
   "scripts": {
     "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "build": "vuepress build src && echo 'kb.actionit.dev' >> docs/CNAME"
   },
   "license": "MIT",
   "devDependencies": {

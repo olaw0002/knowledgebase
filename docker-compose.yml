@@ -1,0 +1,15 @@
+version: '3.1'
+
+services:
+  dev:
+    build: .
+    volumes:
+      - ./src:/src
+    ports:
+      - 8080:8080
+  deploy:
+    build: .
+    volumes:
+      - ./src:/src
+      - ./docs:/docs
+    command: npm run build
