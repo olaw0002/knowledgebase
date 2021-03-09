@@ -1,11 +1,15 @@
-# To Dev
+# Local Dev
 
 `docker-compose up dev`
 
 Visit https://localhost:8080
 
-
-# To Build
+# Local Build
 
 `docker-compose run deploy`
 
+Static files get created in ./docs
+
+# CI
+
+This repo auto-builds via CircleCI on any update to master, and is hosted on GitHub pages.
