@@ -53,19 +53,11 @@ module.exports = {
         link: 'https://actionit.dev'
       }
     ],
-    sidebar: true
-    // sidebar: {
-    //   '/guide/': [
-    //     {
-    //       title: 'Guide',
-    //       collapsable: false,
-    //       children: [
-    //         '',
-    //         'using-vue',
-    //       ]
-    //     }
-    //   ],
-    // }
+    // sidebar: true
+    sidebar: [
+      '/onboarding/',
+      '/onboarding/competencies'
+    ]
   },
 
   /**
