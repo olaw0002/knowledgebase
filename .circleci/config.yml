@@ -18,4 +18,4 @@ jobs:
       #       - ./node_modules
       - run: npm run build
       - run: git commit -am "Build Site [skip ci]"
-      - run: git push -q https://github.com/actionitdev/knowledgebase.git master
+      - run: git push -q https://${GITHUBKEY}@github.com/actionitdev/knowledgebase.git master
