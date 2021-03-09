@@ -20,5 +20,5 @@ jobs:
       - persist_to_workspace:
           root: .
           paths: docs
-      - deploy:
-          - git push -q https://github.com/actionitdev/knowledgebase.git master
+      - run: git commit -am "[skip ci]
+      - run: git push -q https://github.com/actionitdev/knowledgebase.git master
