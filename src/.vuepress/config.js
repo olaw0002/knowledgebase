@@ -29,10 +29,10 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: 'https://github.com/actionitdev/knowledgebase',
+    repo: 'https://github.com/actionitdev/knowledgebase/',
     logo: '/logo.svg',
     editLinks: true,
-    docsDir: 'docs',
+    docsDir: 'src',
     editLinkText: '',
     lastUpdated: true,
     nav: [
