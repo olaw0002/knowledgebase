@@ -1,0 +1,24 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/node:8.11.2
+    parallelism: 1
+    working_directory: ~/kb
+    steps:
+      - checkout
+      - attach_workspace:
+          at: ~/kb
+      # - restore_cache:
+      #     key: v1-yarn-{{ checksum "yarn.lock" }}
+      - run: npm install
+      # - save_cache:
+      #     key: v1-yarn-{{ checksum "yarn.lock" }}
+      #     paths:
+      #       - ./node_modules
+      - run: npm run build
+      - run: git config credential.helper cache
+      - run: git config user.email "tom@bartindale.com"
+      - run: git config user.name "Circle CI Bot"
+      - run: git commit -am "Build Site [skip ci]"
+      - run: git push -q https://${GITHUBKEY}@github.com/actionitdev/knowledgebase.git master
