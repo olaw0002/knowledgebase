@@ -9,13 +9,13 @@ jobs:
       - checkout
       - attach_workspace:
           at: ~/kb
-      - restore_cache:
-          key: v1-yarn-{{ checksum "yarn.lock" }}
+      # - restore_cache:
+      #     key: v1-yarn-{{ checksum "yarn.lock" }}
       - run: yarn install
-      - save_cache:
-          key: v1-yarn-{{ checksum "yarn.lock" }}
-          paths:
-            - ./node_modules
+      # - save_cache:
+      #     key: v1-yarn-{{ checksum "yarn.lock" }}
+      #     paths:
+      #       - ./node_modules
       - run: yarn run build
       - persist_to_workspace:
           root: .
