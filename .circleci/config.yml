@@ -11,14 +11,11 @@ jobs:
           at: ~/kb
       # - restore_cache:
       #     key: v1-yarn-{{ checksum "yarn.lock" }}
-      - run: yarn install
+      - run: npm install
       # - save_cache:
       #     key: v1-yarn-{{ checksum "yarn.lock" }}
       #     paths:
       #       - ./node_modules
-      - run: yarn run build
-      - persist_to_workspace:
-          root: .
-          paths: docs
+      - run: npm run build
       - run: git commit -am "[skip ci]
       - run: git push -q https://github.com/actionitdev/knowledgebase.git master
