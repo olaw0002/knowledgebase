@@ -20,5 +20,6 @@ jobs:
       - run: git config credential.helper cache
       - run: git config user.email "tom@bartindale.com"
       - run: git config user.name "Circle CI Bot"
+      - run: git add .
       - run: git commit -am "Build Site [skip ci]"
       - run: git push -q https://${GITHUBKEY}@github.com/actionitdev/knowledgebase.git master
