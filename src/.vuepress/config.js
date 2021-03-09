@@ -35,10 +35,11 @@ module.exports = {
     docsDir: 'src',
     editLinkText: '',
     lastUpdated: true,
+    smoothScroll: true,
     nav: [
       {
-        text: 'On-Boarding',
-        link: '/onboarding/',
+        text: 'Knowledge',
+        link: '/knowledge/',
       },
       {
         text: 'Projects',
@@ -55,8 +56,12 @@ module.exports = {
     ],
     // sidebar: true
     sidebar: [
-      '/onboarding/',
-      '/onboarding/competencies'
+      '/knowledge/onboarding',
+      '/knowledge/competencies',
+      '/knowledge/terminologies',
+      '/knowledge/technologies',
+      '/knowledge/tickets',
+      '/knowledge/opensource'
     ]
   },
 

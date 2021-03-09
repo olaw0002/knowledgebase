@@ -1,3 +1,7 @@
+# Content
+
+Lives in the `src` dir.
+
 # Local Dev
 
 `docker-compose up dev`
