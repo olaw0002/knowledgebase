@@ -10,6 +10,9 @@ Node.js (version 8 +)\
 Puppeteer (version 19+)\
 Chromium (latest)
 
+## Working directory
+//accessibility_testing
+
 ## Usage
 Put the two file ***Dockerfile*** and ***pa11y-config.json*** in same directory
 Open a console then change directory to where the two file is located at then type \
