@@ -31,3 +31,10 @@ To save the result to a file, type ***> filename.extension*** after the url like
 `docker run --rm pa11y --reporter json https://solferinoacademy.com/ > result.json`\
 `docker run --rm pa11y --reporter html https://solferinoacademy.com/ > index.html` \
 `docker run --rm pa11y --reporter cli https://solferinoacademy.com/ > report.md` 
+
+## Sample reports
+A number of sample reports has already been generated into the following formats:
+html
+markdown
+json
+files can be found under accessibility_testing/sample_reports
