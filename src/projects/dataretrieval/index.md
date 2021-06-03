@@ -44,31 +44,31 @@ Link to the Zip Backup:
 
 Installed &quot;single post exporter&quot; plugin on the localhost. The plugin allows to import/export the posts/pages one by one.
 
-![](Images/img1.png)
+![](https://github.com/actionitdev/knowledgebase/blob/master/src/projects/dataretrieval/images/img1.png)
 
-![](Images/img9.png)
+![](https://github.com/actionitdev/knowledgebase/blob/master/src/projects/dataretrieval/images/img9.png)
 
-![](Images/img2.png)
+![](https://github.com/actionitdev/knowledgebase/blob/master/src/projects/dataretrieval/images/img2.png)
 
 Exported a single post, which gets exported as an xml file.
 
 Imported the same in dev site. No issues found.
 
-![](Images/img3.png)
+![](https://github.com/actionitdev/knowledgebase/blob/master/src/projects/dataretrieval/images/img3.png)
 
 Exported a page from the local site using the same plugin.
 
-![](Images/img4.png)
+![](https://github.com/actionitdev/knowledgebase/blob/master/src/projects/dataretrieval/images/img4.png)
 
 In dev site, imported the page.
 
-![](Images/img5.png)
+![](https://github.com/actionitdev/knowledgebase/blob/master/src/projects/dataretrieval/images/img5.png)
 
-![](Images/img6.png)
+![](https://github.com/actionitdev/knowledgebase/blob/master/src/projects/dataretrieval/images/img6.png)
 
 Verified translation on dev site.
 
-![](Images/img7.png)
+![](https://github.com/actionitdev/knowledgebase/blob/master/src/projects/dataretrieval/images/img7.png)
 
 # Catalogue of site content
 
@@ -76,4 +76,4 @@ We have created a catalogue of site content (posts and pages) which can be viewe
 
 Example:
 
-![](Images/img8.png)
+![](https://github.com/actionitdev/knowledgebase/blob/master/src/projects/dataretrieval/images/img8.png)
