@@ -33,7 +33,7 @@ Link to dev site: [https://solferinoacademy.actionit.dev/wp-admin](https://solfe
 
 Link to the Zip Backup:
 
-[http://www.yannleflo.ch/dev/downloads/Solferino-Academy/BCKP/00/20191031\_thefutureredcrossandredcr\_6e7b8a0ece4c4b8d2437\_20191031203851\_archive.zip](http://www.yannleflo.ch/dev/downloads/Solferino-Academy/BCKP/00/20191031_thefutureredcrossandredcr_6e7b8a0ece4c4b8d2437_20191031203851_archive.zip)
+[http://www.yannleflo.ch/dev/downloads/Solferino-Academy/BCKP/00/20191031_thefutureredcrossandredcr_6e7b8a0ece4c4b8d2437_20191031203851_archive.zip](http://www.yannleflo.ch/dev/downloads/Solferino-Academy/BCKP/00/20191031_thefutureredcrossandredcr_6e7b8a0ece4c4b8d2437_20191031203851_archive.zip)
 
 - Installed WordPress site on local and set up the database.
 - Downloaded the old site archive provided by client and extracted the contents of the zip into the folder created in htdocs for local site. Copied the archive.zip as it is without changing name.
@@ -44,31 +44,31 @@ Link to the Zip Backup:
 
 Installed &quot;single post exporter&quot; plugin on the localhost. The plugin allows to import/export the posts/pages one by one.
 
-![](https://github.com/actionitdev/knowledgebase/blob/master/src/projects/dataretrieval/images/img1.png)
+![Single Post Exporter](./images/img1.png)
 
-![](https://github.com/actionitdev/knowledgebase/blob/master/src/projects/dataretrieval/images/img9.png)
+![Single Post Exporter](./images/img9.png)
 
-![](https://github.com/actionitdev/knowledgebase/blob/master/src/projects/dataretrieval/images/img2.png)
+![Single Post Exporter](./images/img2.png)
 
 Exported a single post, which gets exported as an xml file.
 
 Imported the same in dev site. No issues found.
 
-![](https://github.com/actionitdev/knowledgebase/blob/master/src/projects/dataretrieval/images/img3.png)
+![Import Post](./images/img3.png)
 
 Exported a page from the local site using the same plugin.
 
-![](https://github.com/actionitdev/knowledgebase/blob/master/src/projects/dataretrieval/images/img4.png)
+![Export Page](./images/img4.png)
 
 In dev site, imported the page.
 
-![](https://github.com/actionitdev/knowledgebase/blob/master/src/projects/dataretrieval/images/img5.png)
+![Import Page](./images/img5.png)
 
-![](https://github.com/actionitdev/knowledgebase/blob/master/src/projects/dataretrieval/images/img6.png)
+![Import Page](./images/img6.png)
 
 Verified translation on dev site.
 
-![](https://github.com/actionitdev/knowledgebase/blob/master/src/projects/dataretrieval/images/img7.png)
+![Translation Verification](./images/img7.png)
 
 # Catalogue of site content
 
@@ -76,4 +76,4 @@ We have created a catalogue of site content (posts and pages) which can be viewe
 
 Example:
 
-![](https://github.com/actionitdev/knowledgebase/blob/master/src/projects/dataretrieval/images/img8.png)
+![Catalogue](./images/img8.png)
