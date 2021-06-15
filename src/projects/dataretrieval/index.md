@@ -44,31 +44,31 @@ Link to the Zip Backup:
 
 Installed &quot;single post exporter&quot; plugin on the localhost. The plugin allows to import/export the posts/pages one by one.
 
-![Single Post Exporter](./images/img1.png)
+![Single Post Exporter](/dataretrieval/img1.png)
 
-![Single Post Exporter](./images/img9.png)
+![Single Post Exporter](/dataretrieval/img9.png)
 
-![Single Post Exporter](./images/img2.png)
+![Single Post Exporter](/dataretrieval/img2.png)
 
 Exported a single post, which gets exported as an xml file.
 
 Imported the same in dev site. No issues found.
 
-![Import Post](./images/img3.png)
+![Import Post](/dataretrieval/img3.png)
 
 Exported a page from the local site using the same plugin.
 
-![Export Page](./images/img4.png)
+![Export Page](/dataretrieval/img4.png)
 
 In dev site, imported the page.
 
-![Import Page](./images/img5.png)
+![Import Page](/dataretrieval/img5.png)
 
-![Import Page](./images/img6.png)
+![Import Page](/dataretrieval/img6.png)
 
 Verified translation on dev site.
 
-![Translation Verification](./images/img7.png)
+![Translation Verification](/dataretrieval/img7.png)
 
 # Catalogue of site content
 
@@ -76,4 +76,4 @@ We have created a catalogue of site content (posts and pages) which can be viewe
 
 Example:
 
-![Catalogue](./images/img8.png)
+![Catalogue](/dataretrieval/img8.png)
