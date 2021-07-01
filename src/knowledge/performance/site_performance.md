@@ -1,10 +1,10 @@
-# Perfomance testing plan for Solferino WordPress site
+# Perfomance Testing Plan for Solferino WordPress Site
 
 Created by [Prithvi](https://github.com/prmunday)
 
 The following documentation explains the recommended strategy to measure the performance of the Solferino academy website which can be configured as one stage in the deployment pipeline. It also covers the performance measurement based on the type of device (PC, phone, etc) used and the location (countries) of the user.
 
-## KPIs to measure performance
+## KPIs to Measure Performance
 
 Following are the Key Performance Indicators (KPI) suggested to measure the performance of general WordPress deployed websites.
 
@@ -12,7 +12,7 @@ Following are the Key Performance Indicators (KPI) suggested to measure the perf
 2. <b>First Visible content</b>
 3. <b>Loading time</b>
 
-## Proposed technical solution
+## Proposed Technical Solution
 
 It is assumed that CircleCI will be used for the management of the deployment pipeline. Hence, the recommended software/solutions are highly compatible with CircleCI and the docker environment.
 

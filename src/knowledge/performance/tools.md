@@ -1,17 +1,17 @@
-# Accessibility testing tools
+# Accessibility Testing Tools
 
 _Created by [Nelly](https://github.com/RingoHanabi)_
 
 You can easily assess how well your website meets international accessibility standards through running [Pa11y](https://github.com/pa11y/pa11y).
 For convenience, [frvge](https://github.com/frvge) containerised Pa11y so that it can be run during deployment pipelines.
 
-## Original reference
+## Original Reference
 
 Pa11y: [Pa11y](https://github.com/pa11y/pa11y) \
 frvge: [frvge](https://github.com/frvge) \
 Original repo: [repo](https://github.com/frvge/pa11y-docker)
 
-## Language and technology used
+## Language and Technology Used
 
 Node.js (version 8 +)\
 Puppeteer (version 19+)\
@@ -38,7 +38,7 @@ Docker
    `docker run --rm pa11y --reporter html https://solferinoacademy.com/ > index.html` \
    `docker run --rm pa11y --reporter cli https://solferinoacademy.com/ > report.md`
 
-## Sample reports
+## Sample Reports
 
 A number of sample reports has already been generated in the following formats:
 

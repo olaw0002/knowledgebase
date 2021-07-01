@@ -14,7 +14,7 @@
 
 The current Solferino Academy WordPress website has been through a number of iterations. Recently their team rebuilt the template, and in the process are unable to recover many of the pages that existed prior to this major change. This data exists as a backup of the old server and needs to be extracted, cataloged, and manipulated into a format ready for selective import into the new site.
 
-# Initial Migration process
+# Initial Migration Process
 
 As per the client, the following procedure was followed while initially migrating the content from the old site to the new site.
 
@@ -23,7 +23,7 @@ As per the client, the following procedure was followed while initially migratin
 - Potential reasons for restoration failure: Theme/plugin compatibility issues, Timeout during restoration.
 - There have been many structural changes since the initial site. E.g., previously Strategy 2030 content was scattered around the site in multiple posts/pages. But now it is grouped into one section.
 
-# Current investigation process
+# Current Investigation Process
 
 - Action IT set up a dev site based on the most recent backup of the current Solferino Academy site.
 
@@ -35,7 +35,7 @@ Link to dev site: [https://solferinoacademy.actionit.dev/wp-admin](https://solfe
 - Copied installer-backup.php (from extracted archive zip) to drfolder and renamed it to installer.php. Ran the installer.php file from the browser.
 - Completed the steps of the installation process by setting the previously setup DB as the database and by creating an admin account for the site.
 
-# Import/Export of content
+# Import/Export of Content
 
 Installed &quot;single post exporter&quot; plugin on the localhost. The plugin allows to import/export of the posts/pages one by one.
 
@@ -65,7 +65,7 @@ Verified translation on dev site.
 
 ![Translation Verification](/dataretrieval/img7.png)
 
-# Catalogue of site content
+# Catalogue of Site Content
 
 We have created a catalog of site content (posts and pages) that can be viewed by their names and then selectively imported onto the target site.
 
