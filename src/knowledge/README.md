@@ -16,5 +16,6 @@ Here you will find documentation detailing what previous Action IT teams have ac
 
 ## Accessibility and Performance
 
-- [Testing how well your site conforms to web accessibility standards](./performance/tools)
-- [Optimising WordPress Websites](./performance/wp_optimization)
+- [Solferino Site Performance](./performance/site_performance.md)
+- [Testing how well your site conforms to web accessibility standards](./performance/tools.md)
+- [Optimising WordPress Websites](./performance/wp_optimization.md)

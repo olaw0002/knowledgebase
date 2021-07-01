@@ -12,16 +12,16 @@
 
 # Project Brief
 
-The current Solferino Academy WordPress website has been through a number of iterations. Recently their team rebuilt the template, and in the process are unable to recover many of the pages that existed prior to this major change. This data exists as a backup of the old server, and needs to be extracted, catalogued and manipulated into a format ready for selective import into the new site.
+The current Solferino Academy WordPress website has been through a number of iterations. Recently their team rebuilt the template, and in the process are unable to recover many of the pages that existed prior to this major change. This data exists as a backup of the old server and needs to be extracted, cataloged, and manipulated into a format ready for selective import into the new site.
 
 # Initial Migration process
 
-As per client, the following procedure was followed while initially migrating the content from old site to new site.
+As per the client, the following procedure was followed while initially migrating the content from the old site to the new site.
 
 - Used Duplicator plugin for doing backups. It is a plugin that duplicates all AP files and folders along with the database.
-- Used XML import/export for restoring the content to new site. Also used DiVi for copy/paste the content, however faced some issues during the migration.
+- Used XML import/export for restoring the content to the new site. Also used Divi for copy/paste the content, however faced some issues during the migration.
 - Potential reasons for restoration failure: Theme/plugin compatibility issues, Timeout during restoration.
-- There have been many structural changes since the initial site. For e.g., previously Strategy 2030 content was scattered around the site in multiple posts/pages. But now it is grouped into one section.
+- There have been many structural changes since the initial site. E.g., previously Strategy 2030 content was scattered around the site in multiple posts/pages. But now it is grouped into one section.
 
 # Current investigation process
 
@@ -29,20 +29,15 @@ As per client, the following procedure was followed while initially migrating th
 
 Link to dev site: [https://solferinoacademy.actionit.dev/wp-admin](https://solferinoacademy.actionit.dev/wp-admin)
 
-- Old site archive was shared by the client in the form of a zip backup extracted using Duplicator plugin.
-
-Link to the Zip Backup:
-
-[http://www.yannleflo.ch/dev/downloads/Solferino-Academy/BCKP/00/20191031_thefutureredcrossandredcr_6e7b8a0ece4c4b8d2437_20191031203851_archive.zip](http://www.yannleflo.ch/dev/downloads/Solferino-Academy/BCKP/00/20191031_thefutureredcrossandredcr_6e7b8a0ece4c4b8d2437_20191031203851_archive.zip)
-
+- Old site archive was shared by the client in the form of a zip backup extracted using the Duplicator plugin.
 - Installed WordPress site on local and set up the database.
-- Downloaded the old site archive provided by client and extracted the contents of the zip into the folder created in htdocs for local site. Copied the archive.zip as it is without changing name.
+- Downloaded the old site archive provided by the client and extracted the contents of the zip into the folder created in htdocs for the local site. Copied the archive.zip as it is without changing the name.
 - Copied installer-backup.php (from extracted archive zip) to drfolder and renamed it to installer.php. Ran the installer.php file from the browser.
 - Completed the steps of the installation process by setting the previously setup DB as the database and by creating an admin account for the site.
 
 # Import/Export of content
 
-Installed &quot;single post exporter&quot; plugin on the localhost. The plugin allows to import/export the posts/pages one by one.
+Installed &quot;single post exporter&quot; plugin on the localhost. The plugin allows to import/export of the posts/pages one by one.
 
 ![Single Post Exporter](/dataretrieval/img1.png)
 
@@ -72,7 +67,7 @@ Verified translation on dev site.
 
 # Catalogue of site content
 
-We have created a catalogue of site content (posts and pages) which can be viewed by their names and then selectively imported on to the target site.
+We have created a catalog of site content (posts and pages) that can be viewed by their names and then selectively imported onto the target site.
 
 Example:
 

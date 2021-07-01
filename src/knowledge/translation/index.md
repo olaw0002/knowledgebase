@@ -4,7 +4,7 @@
 
 ## Documention (9 in total)
 
-> Note: [A template document](https://docs.google.com/document/d/e/2PACX-1vSfH88E0q6H-csbchliPwB6fkANY_coVt29YUsPGcu0uxmIV11iXa-CnrKJJsLIO6EhfSDb-qvQ-dQ-/pub) was created and applied to below documentation.
+> Note: [A template document](https://docs.google.com/document/d/e/2PACX-1vSfH88E0q6H-csbchliPwB6fkANY_coVt29YUsPGcu0uxmIV11iXa-CnrKJJsLIO6EhfSDb-qvQ-dQ-/pub) was created and applied to the below documentation.
 
 ### Website auditing
 
