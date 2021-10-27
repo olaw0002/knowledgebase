@@ -43,6 +43,7 @@ It's assumed that further functionalities will still be integrated with the dash
 2. If there are any previous tests on the same url, a comparison with the most recent report will be automatically conducted. The comparison report shows how metrics change in percentage. This is an existing function but comparing any two reports has not been implemented in the dashboard. The code for doing it is already in the script. You need to let users run it from the frontend and allow users to select two existing reports.
 3. The comparison report is in plain text now. Visualize the data to present to the user more friendly.[Visualization JavaScript library](https://d3js.org/)
 4. [Integrate Google Lighthouse into CI/CD pipeline](https://xebia.com/blog/integrate-google-lighthouse-into-your-cicd-pipeline/)
+5. Some settings need to be configured in the script. Provide UI in dashboard for non-technical users to change them easily.
 
 
 
