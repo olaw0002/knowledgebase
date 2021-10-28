@@ -19,3 +19,7 @@ Here you will find documentation detailing what previous Action IT teams have ac
 - [Solferino Site Performance](./performance/site_performance.md)
 - [Testing how well your site conforms to web accessibility standards](./performance/tools.md)
 - [Optimising WordPress Websites](./performance/wp_optimization.md)
+
+## Financial Management System
+
+- [Selecting Financial Management System for Non-Profit Organizations](./fms/index.md)
