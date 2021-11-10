@@ -1,3 +1,0 @@
-# The Network
-
-> Coming Soon
