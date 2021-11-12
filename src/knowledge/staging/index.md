@@ -105,7 +105,7 @@ Wordpress is the main application service. It processes the HTTP request forward
 
 MySQL service is for data storage. It stores data which support for wordpress service. Meanwhile, the container mounts every SQL file that is put inside the .init folder.
 
-![Image of Staging Server's Workflow](../../../docs/staging/staging-architecture.jpeg)
+![Image of Staging Server's Workflow](/staging/staging-architecture.jpeg)
 
 ## Production Server Docker Services Architecture
 
@@ -115,14 +115,14 @@ Similar containers as Staging server are running inside the production server. H
 
 DbBackup service is for the data backup. It backs up the data dumped from MySQL service in the production server. Technically, it periodically backs up MySQL database via SQLdump and transfers it to the Amazon S3.
 
-![Image of Production Server's Workflow](../../../docs/staging/production-architecture.jpeg)
+![Image of Production Server's Workflow](/staging/production-architecture.jpeg)
 
 ## CI/CD Workflow
 
 Once any code changes were pushed to the `dev` branch, CircleCI will be automatically triggered to build updates and conduct unit tests. Next, the code changes will be deployed to our staging server, where integration tests and performance tests run.
 On the other hand, There are two procedures that can be done from the staging to the production server. First, any changes pushed to the `master` branch will trigger the automatic deployment pipeline to the production server. Meanwhile, the production server's production pipeline and content synchronization between the staging and production environment can also be triggered by utilising the interactive dashboard.
 
-![Image of CI/CD](../../../docs/staging/cicd-workflow.jpeg)
+![Image of CI/CD](/staging/cicd-workflow.jpeg)
 
 ### Essential Environment Variables in CircleCI
 
