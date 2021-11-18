@@ -24,4 +24,8 @@ Here you will find documentation detailing what previous Action IT teams have ac
 
 ## Financial Management System
 
-- [Selecting Financial Management System for Non-Profit Organizations (Nov 2021)](./fms/index.md)
+- [Selecting Financial Management Systems for Non-Profit Organizations (Nov 2021)](./fms/index.md)
+
+## Volunteer Management System
+
+- [Selecting Volunteer Management Systems for Non-Profit Organizations (Nov 2021)](./vms/index.md)
