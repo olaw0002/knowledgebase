@@ -323,7 +323,6 @@ Free IoS and Android app. |
 # Software Selection criteria
 Based on the software selection matrix, the ranking was done for the 3 different categories of products. An overview of the ranking of solutions is given below. A detailed description is provided below. The selection matrix is available in the following link: [Selection Matrix](https://github.com/actionitdev/knowledgebase/raw/vms/src/knowledge/vms/SoftwareSelectionCriteria.xlsx)
 
-<a href="SoftwareSelectionCriteria.xlsx">Selection Criteria</a>
 
 ## Criterias
 
