@@ -9,20 +9,16 @@
   - [Volunteer Skill match](#volunteer-skill-match)
 - [Six Steps for Better Volunteer Management](#six-steps-for-better-volunteer-management)
 - [Interview Findings](#interview-findings)
-  - [Comparison between SaaS and Open Source Platforms](#comparison-between-saas-and-open-source-platforms)
-  - [Quickbooks Online](#quickbooks-online)
-  - [Zoho books](#zoho-books)
-  - [Quickbooks vs. Zoho Books Tier Based Comparison](#quickbooks-vs-zoho-books-tier-based-comparison)
-  - [ERPNext](#erpnext)
-  - [Akaunting](#akaunting)
-- [Detail Evaluation of Solutions](#detail-evaluation-of-solutions)
+- [Overview of shortlisted Solutions](#overview-of-shortlisted-solutions)
+  - [Small NGOs](#small-ngos)
+  - [Medium NGOs](#medium-ngos)
+  - [Large NGOs](#large-ngos)
+- [Software Selection Criteria](#software-selection-criteria)
   - [Criterias](#criterias)
-    - [Software features](#software-features)
-    - [Operating specifications](#operating-specifications)
-    - [Customer support](#customer-support)
-    - [Pricing](#pricing)
-  - [Scoring](#scoring)
-  - [Result Discussion](#result-discussion)
+- [Decision Tree](#decision-tree)
+  - [Factors Used in the Decision Tree](#factors-used-in-the-decision-tree)
+- [Conclusion](#conclusion)
+
 
 # Executive Summary
 Every successful volunteer program begins with a well-planned volunteer management process. A volunteer management process ensures that your organization or event operates efficiently, saves time and resources while ensuring volunteer retention. This guide will help you analyze the available options and help the team efficiently use the best Volunteer Management System available at the market.
@@ -212,6 +208,7 @@ Product is suggested:
   - Volaby. 
 
 **Solutions in Detail**
+
   **1. Microsoft Excel**
  
 It's enough to make one contemplate just using some Excel templates to do the work and that’s not a bad idea. Excel isn’t exposed as a project planner in the market, but when it comes to tracking, the software platform is more powerful than most people realize. It has a lot of data visualization tools built and excellent formulas in place for data processing
@@ -324,7 +321,9 @@ Free IoS and Android app. |
 
 
 # Software Selection criteria
-Based on the software selection matrix(Link), the ranking was done for the 3 different categories of products. An overview of the ranking of solutions is given below. A detailed description is provided in Description:
+Based on the software selection matrix, the ranking was done for the 3 different categories of products. An overview of the ranking of solutions is given below. A detailed description is provided below. The selection matrix is available in the following link: [Selection Matrix](https://github.com/actionitdev/knowledgebase/raw/vms/src/knowledge/vms/SoftwareSelectionCriteria.xlsx)
+
+<a href="SoftwareSelectionCriteria.xlsx">Selection Criteria</a>
 
 ## Criterias
 
@@ -398,7 +397,7 @@ The third tool ranked is the Sign Up Genius, it coordinates events and volunteer
 ![image](https://user-images.githubusercontent.com/68453981/142757217-923d271b-dd1f-4922-b63b-5c4ca4cc3cc8.png)
 
 
-**Factors Used in the Decision Tree:**
+## Factors Used in the Decision Tree
 
   1. Number of Volunteers:
       1. The Number of Volunteers denotes the first path towards the tool selection.
