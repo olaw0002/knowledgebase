@@ -1,56 +1,4 @@
 
-
-# Software Selection criteria
-Based on the software selection matrix(Link), the ranking was done for the 3 different categories of products. An overview of the ranking of solutions is given below. A detailed description is provided in Description:
-
-## Criterias
-
-We have analyzed the software based on the following key criteria: Key factors, Admin/Management, Communication, Volunteer Engagement, Customer support, Platform.
-
-**Key Decision Factors**
-
-This section involves some of the very important key features of a volunteering management system. They include
-- The number of volunteers: It is one key factor based on which the identification of the category in which the solution lies is done.
-- Technical expertise is available in the organization. This is one key factor that determines whether the system needs an IT specialist to handle or can be done by anyone.
-- Integration with existing CRM. Many volunteering organizations already have some sort of small system in place like maybe a simple CRM. They might need a solution that can be integrated into their existing system.
-- Pricing. Pricing is a very important factor as many small organizations lack a lot of funding and some sort of economic solution will be best suited for them.
-- Integrated training facility.
-
-**Admin/Management**
-
-Efficient management of the volunteers by single or multiple admins is an essential feature of any volunteering management system. This section includes some features which can be available for admin management to make the work more efficient. This includes various features like the ability for administrators to review and select volunteers from all signup requests, the ability to roast volunteers (Manual or automated), track volunteer hours, publish volunteering opportunities, etc.
-
-**Volunteer Engagement**
-
-Efficient volunteer engagement is essential for a good volunteering management system. If a portal is present for volunteers through which volunteers can do multiple activities like see various opportunities, register to them,  update their availability, and so on, it can make volunteering management much easier. This can take away a lot of management overhead required and make the process more smooth. For a small organization with maybe less than 20 volunteers, this feature may not be necessary. But in the case of larger organizations, this is an essential feature.
-
-**Communication**
-
-Communication is a key factor for volunteer management. It is essential for good two-way communication between volunteers and the organization. Volunteers should be communicated properly about various volunteering opportunities which they can utilize. Similarly, volunteers should be able to effectively communicate with the organization about their availability, expression of interest to be part of any activities, and so on. Communication can occur through different channels like Email, a news dashboard, SMS, etc.
-
-**Customer Support**
-
-Customer support options vary depending on the pricing plan users select, but they usually include email, phone (24/7 or 24/5), online ticketing, live chat, and a knowledge base. Choosing software that offers ample support resources ensures that we have someone to contact in case we run into technical issues.
-
-**Scoring**
-In each section, we rate the software on a scale of 1 (very poor) to 5 (excellent). This has been done by researching the software’s official website, documentation, community forums, and analyzing user reviews on popular software review websites. 
-
-Full scale: 1 = very poor, 2 = poor, 3 = average, 4 = good, and 5 = excellent. 
-
-If a vendor does not offer a listed function, we give the score a 0. Finally, total scores are calculated by the weighted sum of the individual sections. The higher the total score, the specific vendor meets our criteria. Weighting assigned to each criteria is based on project members’ experience and findings from interviews. Clients are encouraged to review the weighting based on their specific environments.
-
-
-
-
-
-
-
-
-
-
-
-
-
 # <a href="/files/vms/Action_IT_VMS_A4.pdf" download>Volunteer Management Systems for NGOs - Finding Report (Click to Download)</a>
 
 - [Executive Summary](#executive-summary)
@@ -373,5 +321,140 @@ Robust solutions ranging from simple signup form to more robust volunteer manage
 Desktop and Tabular Volunteer Portal. |
 Free IoS and Android app. |
 
+
+
+# Software Selection criteria
+Based on the software selection matrix(Link), the ranking was done for the 3 different categories of products. An overview of the ranking of solutions is given below. A detailed description is provided in Description:
+
+## Criterias
+
+We have analyzed the software based on the following key criteria: Key factors, Admin/Management, Communication, Volunteer Engagement, Customer support, Platform.
+
+**Key Decision Factors**
+
+This section involves some of the very important key features of a volunteering management system. They include
+- The number of volunteers: It is one key factor based on which the identification of the category in which the solution lies is done.
+- Technical expertise is available in the organization. This is one key factor that determines whether the system needs an IT specialist to handle or can be done by anyone.
+- Integration with existing CRM. Many volunteering organizations already have some sort of small system in place like maybe a simple CRM. They might need a solution that can be integrated into their existing system.
+- Pricing. Pricing is a very important factor as many small organizations lack a lot of funding and some sort of economic solution will be best suited for them.
+- Integrated training facility.
+
+**Admin/Management**
+
+Efficient management of the volunteers by single or multiple admins is an essential feature of any volunteering management system. This section includes some features which can be available for admin management to make the work more efficient. This includes various features like the ability for administrators to review and select volunteers from all signup requests, the ability to roast volunteers (Manual or automated), track volunteer hours, publish volunteering opportunities, etc.
+
+**Volunteer Engagement**
+
+Efficient volunteer engagement is essential for a good volunteering management system. If a portal is present for volunteers through which volunteers can do multiple activities like see various opportunities, register to them,  update their availability, and so on, it can make volunteering management much easier. This can take away a lot of management overhead required and make the process more smooth. For a small organization with maybe less than 20 volunteers, this feature may not be necessary. But in the case of larger organizations, this is an essential feature.
+
+**Communication**
+
+Communication is a key factor for volunteer management. It is essential for good two-way communication between volunteers and the organization. Volunteers should be communicated properly about various volunteering opportunities which they can utilize. Similarly, volunteers should be able to effectively communicate with the organization about their availability, expression of interest to be part of any activities, and so on. Communication can occur through different channels like Email, a news dashboard, SMS, etc.
+
+**Customer Support**
+
+Customer support options vary depending on the pricing plan users select, but they usually include email, phone (24/7 or 24/5), online ticketing, live chat, and a knowledge base. Choosing software that offers ample support resources ensures that we have someone to contact in case we run into technical issues.
+
+**Scoring**
+In each section, we rate the software on a scale of 1 (very poor) to 5 (excellent). This has been done by researching the software’s official website, documentation, community forums, and analyzing user reviews on popular software review websites. 
+
+Full scale: 1 = very poor, 2 = poor, 3 = average, 4 = good, and 5 = excellent. 
+
+If a vendor does not offer a listed function, we give the score a 0. Finally, total scores are calculated by the weighted sum of the individual sections. The higher the total score, the specific vendor meets our criteria. Weighting assigned to each criteria is based on project members’ experience and findings from interviews. Clients are encouraged to review the weighting based on their specific environments.
+
+The scoring matrix is present in the following link: Software Selection Matrix
+A summary of the feature evaluation is shown in the scoring table, with the total score and corresponding ranking for each tire. Heatmap is also given below:
+
+![image](https://user-images.githubusercontent.com/68453981/142757023-59653272-fd09-430c-a70d-781ac38917ae.png)|
+|:--:|
+| <b>Table 1 – Summary of the score for solutions to small organizations</b>|
+
+Among the solutions for small organizations, Volaby achieves the highest ranking. It is one product that has all features of an advanced volunteering management system at a very low cost. It is the best-suited tool for small to medium-sized organizations, which requires volunteers to have a portal to enter their availability, see opportunities, etc.  The only issue with Volaby is that it is a bit expensive. If a user is looking for a cheaper option with various features, the smart sheet is the one to go to. It has various project management features like Gantt view, calendar view, kanban board, etc. If looking for a free option requires a lot of collaboration, google sheet is one to go to. Finally, excel sheet is one to go for which has a lot of data visualization tools and has a good desktop software platform.
+
+![image](https://user-images.githubusercontent.com/68453981/142757065-6fa1556c-8ddd-415a-802c-1e855630cfd4.png)|
+|:--:|
+| <b>Table 2 – Summary of the score for solutions to medium organizations</b>|
+
+Among the solutions for medium organizations, Volunteer Hub leads well ahead of Zoho creator. The advantage of Volunteer Hub is that it requires zero technical skills to handle. It has an excellent customer support and all features required for an advanced Volunteer management system. It is very suitable for medium to large-scale organizations. The second-ranked one is the Zoho creator. The advantage of Zoho creator is that it is entirely customizable as compared to other solutions. Users can create custom forms and events as per their requirements. Also, they have the option to create a mobile app that can be integrated into the volunteer management system. But it does require a medium level of technical expertise to operate.
+
+![image](https://user-images.githubusercontent.com/68453981/142757091-eb3dc7b4-da12-4971-982f-fb685aa1485c.png)|
+|:--:|
+| <b>Table 3: Summary of Large scale solutions</b>|
+
+Among the solutions for large scale, Volunteer Impact is given the first priority over init Live VMS and Sign Up Genius. The advantage of using volunteer impact is that the portal is completely user-friendly. The design is also very clean and appealing looking on both the admin and volunteer end. Customer support at Better Impact is top-notch. Enterprise-level function - the ability to capture data across a variety of accounts Online application process and ability to modify based on the accounts needs the Ability to have online scheduling (versus having to use a spreadsheet) Ability of volunteers to manage their own schedule and to record their own hour’s Ability of volunteers to print their own reports on their hours.
+
+The second one ranked is Init Live VMS, InitLive offers an all-in-one staff and volunteer management solution for programs and events. InitLive's solution streamlines staff and volunteer recruitment, scheduling, management, and communications through web and mobile apps. Compatible with both Android and iPhone, InitLive is a great scheduling tool that allows you to work both on and offline and does not require your volunteers to have the app. Communication can be sent through text message at no additional charge with the software's Event Day App.
+
+The third tool ranked is the Sign Up Genius, it coordinates events and volunteers in minutes with online sign-ups. The site replaces the need for reply-all emails and spreadsheets and saves organizers time by automating the recruiting and coordinating process. The site is packed with features such as automatic email reminders, additional admin access, and slot locking. SignUpGenius simplifies event planning and scales from a basic sign-up tool to a powerful enterprise platform. One of the key features is that it is easy to access. No login or registration is required for people to sign up for slots just click the link and go. No real technical expertise or knowledge is necessary to successfully use the tool.
+
+![image](https://user-images.githubusercontent.com/68453981/142757181-45683c8c-d7ac-47e8-bc5b-dacac51dee46.png)|
+|:--:|
+| <b>Table 4: Heatmap for all solutions from 3 different categories</b>|
+
+
+
+# Decision Tree
+
+![image](https://user-images.githubusercontent.com/68453981/142757217-923d271b-dd1f-4922-b63b-5c4ca4cc3cc8.png)
+
+
+**Factors Used in the Decision Tree:**
+
+  1. Number of Volunteers:
+      1. The Number of Volunteers denotes the first path towards the tool selection.
+      2. It represents the number of volunteers the NGO is expecting to maintain and organize.
+      3. Depending on the number of volunteers, the corresponding path can be chosen.
+
+  2. Paid Software:
+      1. This factor determines whether the tool on TIER-1 is a paid tool or not.
+      2. Depending on the requirement, traversing through the right path will fetch the right tool for the TIER-1 NGOs.
+
+  3. Volunteer Portal:
+      1. The volunteer portal denotes whether a separate portal for the volunteer is available.
+      2. This portal is where the volunteers can search and register for upcoming volunteer opportunities.
+
+  4. IT Skill Required:
+      1. This Factor is typically for the TIER - 2 organizations.
+      2. This factor denotes whether any IT management skill is required to use the tool.
+      3. IT skills include working on multiple windows, handling data, but are not limited.
+
+  5. Incident Reporting:
+      1. This factor denotes the fact that there is an option to report any incident to the admin via the portal.
+      2. This factor plays a major role in bridging the gap between the volunteer and the admins handling the volunteer opportunities.
+
+  6. Location Map Opportunities:
+      1. This factor denotes whether the tool is able to map the opportunities to its corresponding map location.
+      2. This feature helps the volunteers to understand the location where the opportunity is being held and also helps in planning their travel to avail the opportunities.
+
+
+
+# Conclusion
+
+Volunteer administration programming should make your life simpler by offering you every one of the instruments you need to deal with your volunteer program and engage you and your volunteers to accomplish their best work. 
+
+Our team has analyzed in detail a wide range of solutions and based on various interviews conducted, requirements were gathered. Then three categories of solutions were identified to which various organizations can be assigned based on factors like the size of the organization. Different solutions were suggested for different categories.
+
+**Small organizations**
+
+    1. Microsoft Excel
+    2. Google Sheets [ FREE ]
+    3. Volaby
+
+**Medium organizations**
+
+    1. Zoho Creator
+    2. Volunteer Hub
+
+**Large organizations**
+
+    1. Init Live Volunteer
+    2. Sign Up Genius
+    3. Better Impact
+
+
+
+There are countless alternatives available and it's not difficult to get overpowered with decisions. We suggest you take as much time as necessary and characterize what you need prior to focusing on any product. Keep in mind, one arrangement that can offer all that you need to succeed, like InitLive, rather than numerous point arrangements will serve you better over the long haul. 
+
+Note this report offers a general overview and evaluation of available volunteering management solutions. Data and information collected may vary over time and can be subjective. Clients are advised to use the recommendations as one of the many references available. Decisions on implementation should be made after clients’ own evaluation based on specific environments and requirements.
 
 
