@@ -8,7 +8,7 @@ Here you will find documentation detailing what previous Action IT teams have ac
 
 ## Staging
 
-- [Staging Pipeline for Solferino Wordpress Website](./staging/index.md)
+- [Staging Pipeline for Solferino Wordpress Website (Nov 2021)](./staging/index.md)
 
 ## Data Retrieval
 
