@@ -105,7 +105,7 @@ Wordpress is the main application service. It processes the HTTP request forward
 
 MySQL service is for data storage. It stores data which support for wordpress service. Meanwhile, the container mounts every SQL file that is put inside the .init folder.
 
-![Image of Staging Server's Workflow](https://github.com/actionitdev/pipeline/blob/master/staging-architecture.jpeg)
+![Image of Staging Server's Workflow](/staging/staging-architecture.jpeg)
 
 ## Production Server Docker Services Architecture
 
