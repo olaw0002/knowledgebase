@@ -1,3 +1,0 @@
-# Open Source
-
-> Coming Soon
