@@ -119,10 +119,10 @@ DbBackup service is for the data backup. It backs up the data dumped from MySQL 
 
 ## CI/CD Workflow
 
-Once any code changes were pushed to the `dev` branch, CircleCI will be automatically triggered to build updates and conduct unit tests. Next, the code changes will be deployed to our staging server, where integration tests and performance tests run.
+Once any code changes were pushed to the `dev` branch, CircleCI will be automatically triggered to build updates and conduct unit tests. Next, the code changes will be deployed to our staging server, where integration tests and performance tests run.
 On the other hand, There are two procedures that can be done from the staging to the production server. First, any changes pushed to the `master` branch will trigger the automatic deployment pipeline to the production server. Meanwhile, the production server's production pipeline and content synchronization between the staging and production environment can also be triggered by utilising the interactive dashboard.
 
-![Image of CI/CD](/staging/cicd-workflow.jpeg)
+![Image of CI/CD](/staging/CICD-workflow.jpeg)
 
 ### Essential Environment Variables in CircleCI
 
@@ -434,3 +434,5 @@ Currently, there are three main functions on the dashboard:
 - List the latest 3 backup files of the staging server in AWS S3. When the latest deployment failed, user could choose one of the backups to restore.
   (ps: it will create two environment variables on CircleCI, still needs further implementation on script level.)
 - Show the deploymnet history.
+
+<!-- ### Backup container selection -->
