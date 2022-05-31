@@ -1,9 +1,9 @@
 # <a>Zoho Book Instruction</a>
 
-- [Plan for Zoho Books](#Plan for Zoho Books)
-  - [Our Choose](#Our Choose)
+- [Plan for Zoho Books](#Plan-for-Zoho-Books)
+  - [Our Choose](#Our-Choose)
 - [Dashboard](#Dashboard)
-  - [Total Receivables](#Total Receivables)
+  - [Total Receivables](#Total-Receivables)
   - [Process Automation and 3rd Party Integration](#process-automation-and-3rd-party-integration)
   - [Reporting and Budgeting](#reporting-and-budgeting)
   - [Other Features](#other-features)
@@ -24,6 +24,7 @@
     - [Pricing](#pricing)
   - [Scoring](#scoring)
   - [Result Discussion](#result-discussion)
+
 
 # Plan for Zoho Books
 
