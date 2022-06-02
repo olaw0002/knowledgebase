@@ -1,0 +1,817 @@
+Invoicing 
+Steps
+
+
+For Volunteers and Employees Expenses
+Expenses - Overview
+Expenses are costs that are incurred for running a business. They can be incurred on various day-to-day business activities including travel, food, and lodging. Record and claim reimbursement for all the expenses you incur on behalf of your business in the Expenses module.
+Statuses Of Expenses
+STATUS
+DESCRIPTION
+UNREPORTED
+If the expenses are not added to a report, the status will be Unreported.
+UNSUBMITTED
+Expenses that are added to a report in Draft status will be in Unsubmitted status.
+EXPIRED
+Expenses that aren’t approved before the expiry date that was configured by the admin, will be in the Expired status.
+
+Note:
+Once an expense is associated with a report, the status of the expense will be the same as the status of the report. Learn more about report status.
+
+Types of Expense Views
+You can classify and identify your expenses easily by switching among the different types of expense views. The types of expense views are:
+ List View
+All your expenses will be listed vertically with details such as date, category, amount, associated report, and status.
+ Receipt View
+All the receipts will be displayed along with their expense details. In the receipt view, you can also add an expense to a report from the Add to Report band at the bottom of the receipt.
+ Calendar View
+This view has a calendar which displays the total expense amount and the number of expenses created on a particular day of the month. You can also add a new expense for a specific date by clicking the date on the calendar.
+To switch between views:
+Navigate to  Expenses.
+Click the  List icon at the top right corner of the page and select your preferred view.
+Autoscan Receipts
+Supported Receipt Formats
+Ways to Upload Receipts
+Autoscan Receipts
+Upload Receipts from Your Computer or Cloud Accounts
+Upload Receipts Using Chrome Extension
+Email Receipts to Your Account
+Attach Multiple Receipts to an Expense
+Supported Receipt Formats
+The receipts you upload should belong to any of the following file formats:
+
+
+
+
+
+
+
+
+ JPEG (JPG)
+ PNG
+ PDF
+ DOC (DOCX)
+ TIFF (TIF)
+ XML
+ XLS (XLSX)
+
+
+
+The receipt you upload for autoscan should belong to any of the following file formats:
+
+
+
+
+
+
+ JPEG (JPG)
+ PNG
+ PDF
+
+
+Ways to Upload Receipts
+You can upload your receipts in multiple ways.
+Upload from your computer or your cloud accounts (Evernote, Dropbox, Box, etc.,).
+Drag and drop receipts for autoscan.
+Clip portions from any webpage using the Chrome extension.
+Email receipts to your Zoho Expense account.
+
+Autoscan Receipts
+If autoscan is enabled in your organisation, once you upload the receipts, they will be scanned automatically in Zoho Expense. You can drag & drop the receipts in the Drag & Drop Receipts section of the  Home page or upload receipts from your computer or cloud accounts.
+While autoscanning the receipts, Zoho Expense fetches the following essential details:
+
+
+
+
+
+
+
+
+Date
+Amount
+Merchant name
+Currency
+Payment mode
+
+
+
+
+
+
+
+To view the receipts for which the autoscanning is in progress, navigate to  Expenses module. You can also view the scan-failed receipts here.
+
+The receipts will also be auto-categorised. The first expense with a new merchant will have to be categorised manually in an organisation. Subsequent expenses containing the same merchant will be auto-categorised during the autoscan. Autoscanning works best for receipts in the following languages:
+
+
+
+
+
+
+
+
+Chinese
+Danish
+Dutch
+English
+French
+German
+Italian
+Malay
+Norwegian Bokmal
+Portuguese
+Russian
+Swedish
+Spanish
+Thai
+Vietnamese
+
+
+
+
+Upload Receipts from Your Computer or Cloud Accounts
+You can upload receipts from your computer or cloud accounts and expenses will be created for them automatically, if autoscan is enabled. You can upload receipts from any of the following cloud accounts:
+
+
+
+
+
+
+
+
+ Zoho WorkDrive
+ Zoho Docs
+ Evernote
+ Google Drive
+ Dropbox
+ Box
+ OneDrive
+
+
+
+To upload receipts from computer:
+Go to  Home or  Expenses on the left sidebar.
+Click anywhere in the Drag & Drop Receipts section.
+Click Select file from desktop.
+You can attach the receipts individually or if you have multiple receipt images, you can select them at one go and upload them. To upload multiple receipt images from the computer, press and hold the Shift key and the Down Arrow key together to select the receipts.
+Click Open. All the selected receipts will be uploaded to Zoho Expense.
+To upload receipts from your cloud accounts:
+Go to  Home or  Expenses on the left sidebar.
+Click anywhere in the Drag & Drop Receipts section.
+In the pop-up that appears, select a cloud account from which you want to upload receipts.
+
+Click the Authenticate button to provide access to the files in your cloud account.
+Select the receipts and click Attach.
+Note:
+If autoscan is not enabled in your organisation, all the uploaded receipts will be listed as unexpensed receipts. To view the unexpensed receipts, go to Expenses > click View in the yellow band at the top of the page.
+
+
+Upload Receipts Using Chrome Extension
+You can clip a portion of any webpage and upload it as a receipt to your Zoho Expense account using the Chrome extension.
+Prerequisite:
+You must use a browser that uses Chromium as its browser engine.
+Download the Zoho Expense Chrome extension. 
+After the download, the Zoho Expense extension icon will appear next to the address bar on top of the browser. Click the Zoho Expense extension icon and click + Add Receipt. 
+Click and drag on the screen to clip a portion of the webpage that has a receipt.
+Click Upload. The receipt will be uploaded to Zoho Expense.
+If your receipt is in the image format, right-click on the image.
+Click Send To Zoho Expense and the receipt will be automatically uploaded to Zoho Expense.
+Note:
+You can also access the extension by right-clicking on any portion of the page. Select Zoho Expense. Click Clip and Send or Send Visible Region and your receipt will be uploaded to Zoho Expense.
+
+Email Receipts to Your Account
+All the receipts you have in your mailbox, such as airline, food, and lodging expenses can be forwarded to your Zoho Expense account. This feature is very helpful when you’re on the move or have a large number of receipts that you can’t upload manually.
+When you log in to the organisation you’re invited or when you create a new organisation in Zoho Expense, a receipt forwarding email address will be created for you.
+You can send receipts from any email address to your receipt forwarding address. The receipt forwarding address is unique to every user. If autoscan is enabled in your organisation, the receipts sent to this address will be autoscanned and converted into expenses.
+If you want to update the receipt forwarding address, go to My Settings > Preferences > Update.
+
+Enter the new receipt forwarding address and click Save.
+Notes:
+You can upload an attachment that is a maximum of 15MB per email. If there is more than one attachment, every attachment will be created as an expense.
+Only the respective user can update the Receipt Forwarding Email Address.
+
+Attach Multiple Receipts to an Expense
+You can attach a maximum of 5 receipts to an expense, of 7 MB each. You can attach receipts in selected receipt formats. To attach:
+Go to  Expenses on the left sidebar.
+Click the expense for which you want to attach receipts.
+Click Attach receipts from computer or cloud or click anywhere at the left hand side of the expense creation page. You can attach the receipts from computer or from your cloud account. 
+You can attach the receipts individually or if you have multiple receipt images, you can select them at one go and upload them. To upload multiple receipt images from computer, press and hold the Shift key and Down Arrow together to select the receipts. Click Open and the receipts will be added to the expense. 
+Click Save and Close to save the expense. The receipts will be attached only when you save the expense.
+Creating Expenses
+Set Expense Preferences
+Ways to Record Expenses
+Create Expenses Manually
+Upload or Drag-drop Receipts
+Add Mileage Expense
+Record Per Diem Expenses
+Bulk Add Expenses
+Create Expenses from Card Statements
+Import Expenses
+Split an Expense
+Itemize an Expense
+Merge Expenses
+Set Expense Preferences
+While creating an expense, you might have some fields for which you might fill in the same details every time. Instead, you can prefill such details by setting default values for your expenses. So every time, you create an expense, the fields will be pre-filled with the default values you’ve set.
+For example, you might not change the paid through account for your expenses so often. So, selecting the paid through account every time you create an expense can become redundant. You can now set the paid through account for your expenses as the default values while creating an expense.
+Note:
+You can set default values for all the fields present while creating an expense, including the custom fields.
+To set default values for your expenses:
+Go to My Settings on the left sidebar.
+Navigate to Preferences tab.
+Click Configure under Expenses.
+
+Select the fields and enter the values.
+Click Save.
+
+
+Ways to Record Expenses
+You can record expenses in multiple ways using Zoho Expense:
+Upload receipts for autoscan and expenses will be created automatically
+Bulk add expenses
+Create expenses from card statements
+Create per diem expenses
+Record mileage expenses
+Create expenses manually
+
+Create Expenses Manually
+You can create expenses manually in Zoho Expense. To create a new expense:
+Go to the  Expenses module on the left sidebar.
+Click + New Expense in the top right corner.
+(OR)
+Click the  icon next to the  Expenses section on the left sidebar.
+Fill in details such as Date, Category, Amount, etc.
+Upload receipts, if necessary.
+Mark the Personal option if you’ve incurred a personal expense.
+Check the Claim Reimbursement option if the expense involves spending from your pocket.
+Mark the Billable option if you want to bill your expenses to your customers.
+Choose the customer you want to bill from the Customer dropdown.
+Select a report from the Add to Report dropdown to add this expense to an existing report or add to a new report.
+You can include employees or contact persons to your expense from the Attendees dropdown.
+You can also associate tags to your expenses. Select the tag you want to associate with your expense, from the Tags dropdown.
+Click Save and Close to save your expense.
+(OR)
+Click Save and New to save and create a new expense.
+
+
+Upload or Drag-drop Receipts
+Once you upload or drag and drop a receipt in Zoho Expense, you can convert it into an expense. To do this:
+Go to the  Expenses module on the left sidebar.
+Click the View button on the top of the page to view the receipts that haven’t been converted into expenses yet. 
+Click Add Manually in the receipt you want to convert to an expense.
+Enter the expense details like date, category, amount, etc.,
+Click Save and Close and an expense will be created for the receipt.
+(OR)
+Click Save and Next, if you want to convert the next receipt into an expense.
+
+Add Mileage Expense
+If you use your vehicle or your organisation’s vehicle for business needs, create a mileage expense to report the fuel expenses. Enter the distance travelled or the odometer reading and Zoho Expense will calculate the mileage expense automatically based on the vehicle’s mileage rate as configured by the admin.
+To create a mileage expense:
+Click the  icon next to  Expenses on the left sidebar and navigate to  Add Mileage tab.
+(OR)
+Go to  Expenses and select  Add Mileage from the + New Expense dropdown at the top right corner.
+A New Expense page will open.
+Click the  Add Mileage tab. A form to create a mileage expense will appear.
+If you use your vehicle for business needs, you can create a personal mileage expense to claim the fuel reimbursement. Mark the Personal field if you want to create a personal mileage expense.
+Choose a category from the Category dropdown for your mileage expense.
+Choose a vehicle if your organisation uses different mileage rates for different vehicles.
+Select the method through which you want to calculate your mileage expense.
+Select the Distance Traveled option to enter the distance travelled, or select the Odometer Reading to calculate mileage from the start reading and end reading of your odometer.
+
+
+Pro Tip:
+Use the Zoho Expense mobile application to connect to GPS services and fetch the distance travelled automatically.
+The Amount is calculated automatically based on the distance travelled or the odometer reading and the prescribed mileage rate.
+Mark the Claim reimbursement option if you’ve spent your money for the expense.
+Mark the Billable option if you want to bill the expense to your customer.
+If you’ve checked the Billable option, you can choose the customer from the Customers dropdown.
+Use the Add to Report dropdown to add your mileage expense to an existing report or to a new report.
+Click Save and Close.
+
+
+Record Per Diem Expenses
+Per diem is a daily allowance that an organisation provides to an employee while they travel for work. Employees can create per diem expenses for individual days or for an entire trip.
+To record per diem expenses:
+Click the  icon next to  Expenses on the left sidebar and navigate to  Add Per Diem tab.
+(OR)
+Go to  Expenses and select  Add Per Diem from the + New Expense dropdown at the top right corner.
+
+Select a policy from the Policy dropdown.
+Select the location from the options available in the Travel Location dropdown. [Per diem rates will be configured for the locations listed in the Travel Location dropdown.]
+Choose a Per Diem Type.
+
+There are two types of per diem, namely:
+Individual Days:
+If you want to calculate per diem for individual days, select the per diem type as Individual Days. Configure the from and to dates and enter the time duration in 24 hour format. Per diem will be calculated by applying the same time duration for all the days based on the per diem rates configured.
+Scenario:
+If you record per diem for a duration from 09:00 to 17:00 hours from 14 January to 17 January, then per diem will be calculated for eight hours each day.
+
+Trip:
+If you want to calculate per diem for the entire trip, select the per diem type as Trip. Enter the Departure Date & Time and the Arrival Date & Time. Per diem will be calculated by including all the hours from the start time on the first travel day to the end time on the last travel day. For the days in between, per diem is calculated for 24 hours.
+Scenario:
+If you record per diem for a duration from 09:00 to 17:00 hours from 14 January to 17 January, then per diem expense for 14 January will be calculated from the start time (09:00 hours) to the end of the day (23:59 hours). Similarly for 17 January, the duration will be calculated from the beginning of the day (00:00) to the end time (17:00). For all other days, the duration will be considered as 24 hours.
+
+If you want to associate the per diem expense to a report, select a report from the Add to Report dropdown or add to a new report.
+Click Save and Close.
+
+Bulk Add Expenses
+To add expenses in bulk:
+Click the  icon next to  Expenses on the left sidebar and navigate to  Bulk Add Expenses tab.
+Enter relevant information such as date, category, amount, etc.,
+Click + to attach receipts, if necessary.
+Check the Reimbursable option if your expenses are reimbursable.
+If you want to add more expenses, click + Add More Expenses and enter the expense details.
+After entering the details of all the expenses, click Save.
+
+
+Create Expenses from Card Statements
+If the admin has enabled auto-matching/creation of corporate card expenses under Expense Preferences, expenses will be automatically created for corporate card transactions. Otherwise, the users can create expenses from their card transactions manually.
+Prerequisites:
+The corporate card expenses that are created will be non-reimbursable.
+While creating expenses from the card transactions, you cannot modify the expense amount.
+To create expenses from a card transaction manually:
+Click the  icon next to  Expenses on the left sidebar.
+Navigate to  From Cards tab and click Convert to Expense at the right corner of the transaction you want to convert to an expense.
+
+Click Add Manually and enter the required details.
+
+Click Save and Close and an expense will be created.
+
+Notes:
+Sometimes you might have created expenses manually for the transactions made in your card. In this case, you can match the unexpensed card feeds with the existing expenses in Zoho Expense.
+Some of the transactions made through your card may not be incurred for your business. In such cases, you can exclude these transactions from converting them into expenses.
+
+Import Expenses
+Expenses can be imported in two file formats:
+
+
+
+
+ CSV - Comma Separated Values
+ TSV - Tab Separated Values
+
+To import expenses:
+Go to the  Expenses module on the left sidebar.
+Click the  More icon at the top right corner of the page.
+Select  Import Expenses.
+In the first step, drag and drop a file you want to upload or click Choose File to choose a file from your desktop or a cloud account. If you want to upload another file instead of the selected file, click Replace File and choose another file.
+Click Next.
+
+In the next step, the best match to each field in Zoho Expense will be auto-mapped with the fields in the imported file. If there are unmapped fields, map them manually. Also, if you leave some fields unmapped, they will not be imported into Zoho Expense. If you want to save the existing mapping for future imports, mark the Save these selections for use during future imports checkbox.
+Click Next.
+
+Once you have mapped all the relevant fields, click Import to import expenses into Zoho Expense. All your imported expenses will be listed under Unreported Expenses in the Expenses module.
+
+
+Split an Expense
+You can split a single expense into multiple expenses based on amount, days or the fields in the expense. You can create equal splits or edit the amount of the split expenses.
+For example, while recording the expenses incurred on a business trip, the lodging bill might include the restaurant charges as well. However, your expense policy mandates that you record these two expenses separately, since the expense limits for them are different. In that case, you can split the expense based on the category. Here’s how it’s done.
+Go to  Expenses module.
+Click the  More icon at the right corner of the lodging (parent) expense you would like to split.
+Click  Split.
+In the split expense page, first, select the type of split. You can split the expense by amount, days, or field.
+On splitting the expense by amount and choosing the number of splits, the total expense amount will be split equally into that many expenses.
+
+To split the expense amount by days, configure the starting and the ending date. The total expense amount will be split into the number of days configured.
+You can also split an expense by field. Select the field and the number of expenses. Let’s say, you’ve selected the field as Customer and the number of expenses as 3. Now, the expense will be split into 3 and you can select a customer for each expense.
+Edit the expense amount of each split and change the category.
+Click Save.
+
+If your parent expense is already added to a report, the split expenses will be automatically added to the same report.
+
+Itemize an Expense
+Let’s take an instance where you meet a client for lunch and want to record the expense in Zoho Expense. While doing so, you want to apply tax only on the food and not on the tip you paid. You can record easily by itemizing the expense.
+To itemise:
+Go to  Expenses.
+Click + New Expense.
+Click  Itemize on the expense creation form. Your page expands to include expenses as items. 
+Enter the meals expense as your first item and apply tax on it.
+Add the tip you paid as your second item and associate it with a different category if you like. The expense total will be automatically calculated, with tax applied only to the meals expenses. 
+Associate the expense with the customer and make it billable, if required.
+Add it to an existing report or to a new report.
+Click Save and Close.
+
+Merge Expenses
+If you find that an expense has been duplicated, you can merge it with its parent expense. Upon merging, both the expenses will be automatically deleted and a new expense will be created.
+Prerequisite:
+You cannot merge Submitted, Approved, and Reimbursed expenses.
+Warning:
+Once you merge two expenses, you cannot undo it.
+To merge:
+Go to  Expenses on the left sidebar.
+Mark the expenses you want to merge (only two).
+Click the  More icon on the top of the page.
+Select  Merge.
+In the pop-up that follows, hover over the expense you want to select as the master expense and click Select.
+All the missing information (description, location, reference number, report information) from the master expense will be fetched from the child expense.
+Click Continue. Both the expenses will be deleted and a new expense will be created.
+
+Add Expenses to a Report to Submit
+You are required to add the expenses to a report to submit them for approval. You can add the expenses to an existing report or to a new report. To add expenses to a report:
+Go to  Expenses on the left sidebar.
+Click Add To Report dropdown at the right corner of the expense you want to add to a report.
+Select an existing report to add the expense to it or create a new report by clicking + Add To New Report and the expense will be added to it.
+
+You can also select the expenses in bulk and click the Add To Report dropdown at the top of the page. Select an existing report or create a new report by clicking + Add To New Report, to add the expense to it.
+
+Once you’ve added the expenses, you can submit the report for approval.
+Managing Expenses
+Edit, Clone, and Delete Expenses
+Export Expenses
+Edit, Clone, and Delete Expenses
+Edit Expenses
+If you want to make changes to an expense, you can edit it.
+Prerequisites:
+You can edit only Unreported and Unsubmitted expenses.
+You cannot edit Expired expenses.
+To edit an expense:
+Navigate to  Expenses.
+If you’re in the Unreported Expenses tab, click the expense you want to edit and the Edit Expense page will open.
+
+If you’re in the All Expenses tab, click the expense you want to edit and click the  edit icon at the top right corner of the page.
+
+Make the necessary changes in the Edit Expense page.
+Click Save and Close.
+
+
+Clone Expenses
+Clone an expense to duplicate all the essential details of an expense. Here’s how:
+Go to  Expenses on the left sidebar.
+Navigate to the All Expenses tab.
+Click the expense you want to clone.
+
+Click the  More icon at the top right corner and select  Clone. (In case of approved and reimbursed reports, click the Clone button at the top right corner of the page.)
+
+Make changes if necessary.
+Click Save and Close to create a new expense.
+
+Delete Expenses
+To delete an expense:
+Go to the  Expenses module.
+If you’re in the Unreported Expenses tab, click the  More icon at the right corner of the expense you want to delete and click  Delete.
+
+If you’re in the All Expenses tab, click the expense you want to delete. Click the  More icon at the top right corner of the expense and click  Delete.
+
+In the pop-up that follows, select Delete to delete the expense.
+If you want to delete the expenses in bulk, then select the expenses and click the  More icon at the top of the page.
+Select  Delete. All the selected expenses will be deleted.
+
+Note:
+You cannot delete Submitted, Approved, and Reimbursed expenses.
+
+Export Expenses
+Expenses can be exported in two formats:
+
+
+
+
+ CSV - Comma Separated Values
+ XLS (XLSX) - Microsoft Excel
+
+To export expenses:
+Navigate to  Expenses.
+Click the  More icon on the top right corner of the page.
+Select  Export Expenses.
+
+Select the format (CSV, XLS or XLSX) in which you would like to export your expense data.
+Mark Include Sensitive Personally Identifiable Information (PII) while exporting to export expenses with PII such as name of the user, email address, etc.
+You can also protect the export file with a password. Mark I want to protect this file with a password and provide a password in the Password field.
+Click Export and your export file will be downloaded.
+
+Creating Reports
+Create a Report
+Create Reports from Expenses
+Create Reports from Advances
+Import Reports
+Create a Report
+Once you’ve recorded all your expenses in Zoho Expense, you can create a report, add the expenses, and submit it for approval.
+To create a report:
+Go to  Reports on the left sidebar and click the + New Report button in the top right corner.
+(OR)
+Click the  icon next to  Reports on the left sidebar.
+
+A new report page will open.
+Fill in the following fields:
+FIELDS
+DESCRIPTION
+Report Name
+A name for the expense report.
+Business Purpose
+The business event or purpose for which you’ve incurred the expenses that are added to the report.
+Duration
+The duration for which you’ve incurred the expenses that are added to the report.
+Associate With Trip
+If you are reporting expenses that you incurred while on a trip, select the trip. Alternatively, you can directly create a report from the trip request.
+Tags
+Select the tag you want to associate with your reports. Learn more about tags.
+
+Click Save. A new report will be created and you can start adding expenses to the report.
+
+
+Create Reports from Expenses
+You can add the unreported expenses to an existing report or a new report. To do this:
+Go to  Expenses on the left sidebar.
+In the Unreported Expenses tab, select the unreported expenses you want to add to a report.
+Click the Add to Report dropdown on top of the page.
+Select a report from the dropdown. All the expenses you’ve selected will be added to that report.
+If you want to create a new report using the selected expenses, click + Add to New Report from the dropdown.
+
+
+Create Reports from Advances
+You can apply your pending advances to an existing draft report or create a new report and apply to it. To do this:
+Go to  Advances on the left sidebar.
+In the Pending Advances tab, click Apply to Report dropdown at the right corner of the advance.
+Click + Add To New Report to create a new report and apply the selected advance.
+
+
+Import Reports
+Reports can be imported in the following formats:
+
+
+
+
+ CSV - Comma Separated Values
+ TSV - Tab Separated Values
+
+To import reports:
+Go to  Reports on the left sidebar.
+Click the  More icon at the top right corner of the page.
+Select  Import Reports.
+
+In the first step, drag and drop a file you want to upload or click Choose File to choose the import file from your desktop or a cloud account. If you want to upload another file instead of the selected file, click Replace File and choose another file.
+Click Next.
+
+In the next step, the best match to each field in Zoho Expense will be auto-mapped with the fields in the imported file. If there are unmapped fields, you can map them manually. If you want to save the existing mapping for future imports, mark the Save these selections for use during future imports checkbox.
+Click Next.
+
+The data in the unmapped fields will not be imported into Zoho Expense. If you want to map those fields, click Previous and map the unmapped fields.
+Once you have mapped all the relevant fields, click Import to import reports into Zoho Expense. All the imported reports will be listed under Pending Reports in the  Reports module.
+
+Submitting Reports
+Resolve Policy Violations in a Report
+Add Expenses to Report
+Record and Apply Advances to Reports
+Attach Documents to Reports
+Submit Report
+Recall a Submitted Report
+Resolve Policy Violations in a Report
+If your report or the expenses in the report have violated your organisation’s policies, the violations will be highlighted in the report. You can resolve the violations and submit the report. There are two types of policy violations:
+ Warning Violations
+This type of violation warns you regarding the policy violations you’ve made in your report. You can either resolve the violation or submit the report and leave it to the approver to approve or reject the report.
+ Blocking Violations
+This violation blocks you from submitting the report. You have to resolve the blocking violations to submit the report.
+To resolve the violations:
+Go to  Reports on the left sidebar.
+Click the report with policy violations.
+Click View to view details about the violation.
+Click Update to edit your expense or your report as per your company’s policy and resolve the violations.
+
+
+Add Expenses to Report
+Once you’ve created a report, you can add expenses to it.
+Prerequisite:
+You can add expenses to the reports in Draft, Recalled, or Rejected statuses.
+To add expenses to a report:
+Go to  Reports on the left sidebar.
+Click the report for which you want to add expenses.
+If you have any unreported expenses, you can add them to a report by clicking Add Unreported Expenses. Select the relevant expenses and click Add Expenses.
+To add a new expense, click + New Expense or click the Add Unreported Expenses dropdown and select New Expense to create a new expense for the report.
+
+
+Record and Apply Advances to Reports
+Record Advances in Reports
+If approval is not configured in your organisation, the users can directly record the advances they’ve received inside reports.
+Prerequisite:
+You can apply advances only to the reports in Draft, Recalled, or Rejected statuses.
+To record advances in reports:
+Go to  Reports on the left sidebar.
+Click the report for which you want to record advance.
+Navigate to the ADVANCES & REFUNDS tab.
+Click the Record Advance button.
+
+In the page that opens, enter the amount you want to add as advance.
+Click Record Advance. The advance will be applied to your report.
+
+All the advances that you record will be listed in the ADVANCES & REFUNDS tab of your report.
+Note:
+You can also record advances from the Advances module.
+
+Apply Advances to Reports
+You can apply the advances you’ve received, to your reports. Once you apply an advance to a report, the advance amount will be deducted from the reimbursable total and the balance will be reimbursed to you.
+Prerequisite:
+You can apply advances only to the reports in Draft or Rejected statuses.
+To apply advances:
+Go to  Reports.
+Click the report for which you want to apply advance.
+Navigate to ADVANCES & REFUNDS tab.
+Click Apply Advance.
+
+Select the advances you want to apply to this report.
+Click Apply Advances. The selected advances will be applied to the report.
+
+Alternatively, you can apply advances from the Advances module.
+
+Attach Documents to a Report
+You can attach any document or file which the approver might want to view while reviewing a report.
+Scenario:
+John has received an approval statement for a business trip from his manager. While claiming reimbursement for the expenses incurred during the trip, it will be convenient for John’s manager to view the approval statement along with the expense report. In this case, John can attach the approval statement along with the expense report making it easy for his manager to review the report.
+To attach documents to a report:
+Go to  Reports.
+Click the report for which you want to attach a file.
+Click the  icon in the Documents section on the right side of the report.
+
+You can upload it either by dragging and dropping it into the box or upload it from your computer or a cloud account. You can upload a maximum of 5 files of 7MB each.
+The file can be of any of the following formats:
+
+
+
+
+
+
+
+
+ JPEG (JPG)
+ PNG
+ PDF
+ DOC (DOCX)
+ XML
+
+
+
+
+
+
+
+The approver can view the files in the Documents section on the right side of the report.
+Note:
+Files in PNG and JPEG formats will not be shown in the PDF of the report.
+
+Submit Report
+Create a report, add expenses to it, apply advances if any, resolve the policy violations, and submit for approval.
+To submit the report:
+Go to  Reports.
+Click the report that you want to submit.
+Click the Submit button at the top right corner to submit the report for approval.
+If you have blocking violations, you will not be able to submit the report. Click Update, resolve the violations and submit the report again.
+
+In a pop-up, your approver’s name will be displayed. Enter the email address to whom you want to carbon copy the report.
+Click Submit. Your report will be submitted to the approver.
+
+
+Submit Reports in Bulk
+You can also submit your reports in bulk.
+To submit reports in bulk:
+Go to  Reports.
+Select the reports you want to submit.
+Click the Submit button at the top of the page.
+
+In the pop-up that appears, your approver’s name will be displayed and you can enter the email address to whom you want to carbon copy the report.
+Click Submit. All the selected reports will be submitted to the approver.
+
+
+Recall a Submitted Report
+If you want to edit a report that has already been submitted, you can recall it and make the changes. To do this:
+Go to  Reports.
+Click the submitted report you want to edit.
+Click the Recall button at the top right corner of the report.
+
+Click Recall again to confirm recalling the report. Your report will be assigned the status Recalled.
+
+Click the  Edit icon at the top right side of the page.
+
+Make the necessary changes and click Save.
+Managing Reports
+View History of a Report
+Remove Advance from Report
+Remove Expense from Report
+Update Reports in Bulk
+Edit and Delete a Report
+Share, Print, and Archive Reports
+Export Reports
+View History of a Report
+In the History tab of your report, you can clearly view the changes made to the report by you and your approvers at regular intervals. You can view the details of the changes made and the date and time at which the report was updated by the respective user.
+
+
+Remove Advance from Report
+If you’ve applied a wrong or an irrelevant advance to a report, you can remove that advance from the report.
+Prerequisite:
+You can remove advances from reports that are in Draft, Recalled, or Rejected statuses.
+To remove advances:
+Go to  Reports.
+Click the report from which you want to remove the advance.
+Navigate to ADVANCES & REFUNDS tab.
+Click the  More icon at the right corner of the advance you want to remove.
+Select Remove Advance.
+
+Click Remove. The advance will be removed from the report and will be listed as an unreported advance.
+
+Pro Tip:
+You can also remove advances in bulk. Mark the checkbox before the DATE column in the ADVANCES & REFUNDS tab and click Remove.
+
+Remove Expense from Report
+If you’ve added the expense to a report by mistake, you can remove it.
+Prerequisite:
+You can remove expenses from reports that are in Draft, Recalled, or Rejected statuses.
+To remove expenses from a report:
+Go to  Reports.
+Click the report from which you want to remove the expense.
+Under the Expenses tab, click the  More icon at the right corner of the expense you want to remove.
+Select Remove.
+
+In the pop-up that opens, click Confirm. The expense will be removed from the report and will be listed as an unreported expense.
+
+Pro Tip:
+You can also remove expenses in bulk. Mark the checkbox before the DATE column in the EXPENSES tab and click Remove.
+
+
+Update Reports in Bulk
+If you want to update a bunch of reports at a time, you can update them in bulk. To do this:
+Go to  Reports.
+Select the reports you want to update in bulk.
+Click the Bulk Update button on the top of the page.
+
+The Bulk Field Update pop-up will open. Make changes to the required fields.
+Click Save.
+
+
+Edit and Delete a Report
+Edit a Report
+If you want to make changes to a report, you can edit it.
+Prerequisite:
+You cannot edit the reports in Awaiting Approval, Approved or Reimbursed statuses.
+To edit a report:
+Go to  Reports.
+Click the report you want to edit.
+If you want to edit the report details, click the  Edit icon at the top right corner of the report.
+
+Make the necessary changes and click Save.
+
+
+
+If you want to edit the expenses in the report, click the expense you want to edit. Make the relevant changes and click Save and Close. You cannot edit the expense if you’ve submitted the report.
+
+If you want to edit the advances in the report, navigate to ADVANCES & REFUNDS tab, and click the advance you want to edit. Make the relevant changes and click Record Advance. 
+To add expenses to the report:
+Click the Add Unreported Expenses dropdown and select + New Expense.
+(OR)
+Click Add Unreported Expenses and add the required expenses.
+
+Pro Tip:
+You can also edit the expenses in a report from the Expenses module. The changes will be reflected in the report immediately.
+You can edit the reports that are awaiting approval by recalling them.
+
+Delete Report
+Prerequisite:
+You cannot delete the reports in Awaiting Approval, Approved, and Reimbursed statuses.
+To delete a report:
+Go to  Reports.
+Click the report you want to delete.
+Click the  More icon at the top right corner of the report.
+Select  Delete.
+
+A confirmation popup will open. Click Delete.
+If you want to delete the reports in bulk, select the reports and click the  Delete icon at the top of the page.
+Click Delete.
+
+
+Share, Print, and Archive Report
+Besides the available options, you can do more in the  Reports module. You can share, archive, download receipts, etc., in the  Reports module.
+Prerequisite:
+You cannot archive the reports in Awaiting Approval and Rejected statuses.
+To do this:
+Go to  Reports.
+Click a report.
+Click the  More icon at the top right corner of the report. You can find the following options:
+ Share: Allows you to share your reports with the other users of the organisation.
+ PDF: You can export your report data as a PDF.
+ Print: Allows you to print your reports. You can also preview the reports and download them, if required.
+ Download receipts: You can download all the receipts in your reports as a ZIP file.
+ Archive: Instead of deleting the completed and draft reports, you can archive them and use it for future reference. 
+
+Export Report
+You can export a report in two formats:
+ 
+ 
+ CSV - Comma Separated Values
+ XLS (XLSX) - Microsoft Excel
+
+To export a report:
+Go to  Reports.
+Click the report you want to export.
+Click the  More icon at the top right corner and select  Export.
+
+Choose an export template from the dropdown.
+Select the format in which you want to export your report data. (CSV or XLS.)
+If you’re an Admin, you can decide if you want to include personally identifiable information like email address, contact number, etc., by marking the Include Sensitive Personally Identifiable Information (PII) while exporting option.
+If you want to secure the report with a password, mark the I want to protect this file with a password option and provide a password in the Password field.
+Click Export to download the file into your computer.
+
+ 
+
+
+You can also edit the expenses and the advances in the report.
+After editing the report, click the Re-submit button to submit it for approval again.
+
+Next, select your approver and enter the email address to whom you want to carbon copy the report. Click Submit and your report will be re-submitted for approval with the updated details.
+Note:
+While recalling a report, a notification email will be sent to your approver that you’ve recalled the report.
+
